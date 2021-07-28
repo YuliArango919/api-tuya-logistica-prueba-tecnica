@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Tuya.Logistica.Api", "App.Tuya.Logistica.Api\App.Tuya.Logistica.Api.csproj", "{661E5654-6BBC-40BC-AA7B-ACBE88025C0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Tuya.Logistica.Business", "App.Tuya.Logistica.Business\App.Tuya.Logistica.Business.csproj", "{6D7CA5F7-B83E-47EA-91FA-6A6C179B7CB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Tuya.Logistica.Common", "App.Tuya.Logistica.Common\App.Tuya.Logistica.Common.csproj", "{9AA13CC6-4BBD-4F7D-93A1-ED38ECBAEBFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Tuya.Logistica.Dtos", "App.Tuya.Logistica.Dtos\App.Tuya.Logistica.Dtos.csproj", "{70094F93-6917-4471-B39A-BEEDA7EE0028}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Tuya.Logistica.Data", "App.Tuya.Logistica.Data\App.Tuya.Logistica.Data.csproj", "{38CD0136-F359-4A25-91E2-9816BB4CF9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661E5654-6BBC-40BC-AA7B-ACBE88025C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661E5654-6BBC-40BC-AA7B-ACBE88025C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661E5654-6BBC-40BC-AA7B-ACBE88025C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661E5654-6BBC-40BC-AA7B-ACBE88025C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7CA5F7-B83E-47EA-91FA-6A6C179B7CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7CA5F7-B83E-47EA-91FA-6A6C179B7CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7CA5F7-B83E-47EA-91FA-6A6C179B7CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7CA5F7-B83E-47EA-91FA-6A6C179B7CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA13CC6-4BBD-4F7D-93A1-ED38ECBAEBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA13CC6-4BBD-4F7D-93A1-ED38ECBAEBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA13CC6-4BBD-4F7D-93A1-ED38ECBAEBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA13CC6-4BBD-4F7D-93A1-ED38ECBAEBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70094F93-6917-4471-B39A-BEEDA7EE0028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70094F93-6917-4471-B39A-BEEDA7EE0028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70094F93-6917-4471-B39A-BEEDA7EE0028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70094F93-6917-4471-B39A-BEEDA7EE0028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38CD0136-F359-4A25-91E2-9816BB4CF9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CD0136-F359-4A25-91E2-9816BB4CF9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CD0136-F359-4A25-91E2-9816BB4CF9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CD0136-F359-4A25-91E2-9816BB4CF9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96335D63-58D0-46FE-8AE5-F59B3D9C0767}
+	EndGlobalSection
+EndGlobal

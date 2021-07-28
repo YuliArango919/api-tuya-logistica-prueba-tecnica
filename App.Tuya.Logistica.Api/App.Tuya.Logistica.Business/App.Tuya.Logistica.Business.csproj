@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\App.Tuya.Logistica.Common\App.Tuya.Logistica.Common.csproj" />
+    <ProjectReference Include="..\App.Tuya.Logistica.Data\App.Tuya.Logistica.Data.csproj" />
+    <ProjectReference Include="..\App.Tuya.Logistica.Dtos\App.Tuya.Logistica.Dtos.csproj" />
+  </ItemGroup>
+
+</Project>

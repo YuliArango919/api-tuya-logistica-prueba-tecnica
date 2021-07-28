@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\App.Tuya.Logistica.Business\App.Tuya.Logistica.Business.csproj" />
+    <ProjectReference Include="..\App.Tuya.Logistica.Common\App.Tuya.Logistica.Common.csproj" />
+    <ProjectReference Include="..\App.Tuya.Logistica.Dtos\App.Tuya.Logistica.Dtos.csproj" />
+  </ItemGroup>
+
+
+</Project>
